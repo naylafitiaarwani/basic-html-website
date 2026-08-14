@@ -11,4 +11,5 @@ Website sederhana multi-halaman yang dibuat menggunakan HTML.
 
 ## Project URL
 
-[[github.com/naylafitiaarwani/basic-html-website](https://naylafitiaarwani.github.io/basic-html-website/)](https://naylafitiaarwani.github.io/basic-html-website/)
+(https://naylafitiaarwani.github.io/basic-html-website/)]
+https://roadmap.sh/projects/basic-html-website
